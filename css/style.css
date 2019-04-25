@@ -1,0 +1,156 @@
+* {
+    box-sizing: border-box;
+}
+
+
+.header-bar {
+    background-color: rgb(18,30,41);
+}
+
+.txt {
+    color: white;
+    text-decoration: none;
+    font-size: 9px;
+    
+}
+.h2 {
+    font-family: 'Fjalla One', sans-serif;
+}
+.top-bar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+.body {
+    background-color: rgb(240,242,242);
+}
+
+.top-bar li {
+    display: inline;
+    margin-right:5px;
+    
+}
+
+.second-bar ul {
+    list-style: none;
+}
+
+.second-bar1 li {
+    display: inline;
+    float: right;
+}
+
+.opt {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.btn1 {
+    background-color: rgb(18,30,41);
+    border: none;
+    color: white;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 3px;
+    border-radius: 5px;
+    font-family: 'Fjalla One', sans-serif;
+
+}
+
+.btn {
+    background-color: rgb(32, 52, 71);
+    border: none;
+    color: white;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+
+.lowright {
+    position: relative; bottom: 0px; left: 40px;
+    
+    font-size: 14px;
+}
+
+.news img {
+    float: left;
+    width: 69px;
+}
+
+
+.innerfooter {
+    color: white;
+}
+
+.footer {
+    background: -webkit-radial-gradient(top,#36577a,#0f1b24); /*Safari 5.1-6*/
+}
+
+.bottom {
+    background-color: rgb(9,16,20);
+}
+
+.bottomtxt {
+    color: white;
+}
+
+.services li {
+    text-decoration: none;
+    list-style-image: url('../images/cog.png');
+    font-size: 13px;
+    color: white;
+    text-align: left;
+}
+.opt li {
+    list-style-image: url('../images/quote.png');
+}
+
+
+.btn {
+    background-color: rgb(32, 52, 71);
+    border: none;
+    color: white;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 5px;
+    border-radius: 5px;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.footer {
+    padding-bottom: 50px;
+}
+.body {
+    padding-bottom: 50px;
+}
+.second-bar {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.second-bar1 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.mid--body h2 {
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 40px
+
+}
